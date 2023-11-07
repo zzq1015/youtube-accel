@@ -1,0 +1,249 @@
+https://redirector.googlevideo.com/report_mapping
+https://redirector.gvt1.com/report_mapping
+http://redirector.c.youtube.com/report_mapping
+
+# bellcanada-yyz8
+r1---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.172
+r2---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.173
+r3---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.174
+r4---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.175
+r5---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.176
+r6---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.177
+r7---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.178
+r8---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.179
+rr1---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.172
+rr2---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.173
+rr3---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.174
+rr4---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.175
+rr5---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.176
+rr6---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.177
+rr7---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.178
+rr8---sn-cxaaj5o5q5-tt1r.googlevideo.com 184.150.168.179
+
+# bellcanada-yyz9
+r1---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.204
+r2---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.205
+r3---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.206
+r4---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.207
+r5---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.208
+r6---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.209
+r7---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.210
+r8---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.211
+rr1---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.204
+rr2---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.205
+rr3---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.206
+rr4---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.207
+rr5---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.208
+rr6---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.209
+rr7---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.210
+rr8---sn-cxaaj5o5q5-tt1y.googlevideo.com 184.150.168.211
+
+# bellcanada-yyz11
+r1---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.140
+r2---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.141
+r3---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.142
+r4---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.143
+r5---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.144
+r6---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.145
+r7---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.146
+r8---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.147
+rr1---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.140
+rr2---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.141
+rr3---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.142
+rr4---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.143
+rr5---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.144
+rr6---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.145
+rr7---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.146
+rr8---sn-cxaaj5o5q5-tt1ee.googlevideo.com 184.150.186.147
+
+# bellcanada-yyz12
+r1---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.12
+r2---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.13
+r3---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.14
+r4---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.15
+r5---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.16
+r6---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.17
+r7---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.18
+r8---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.19
+rr1---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.12
+rr2---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.13
+rr3---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.14
+rr4---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.15
+rr5---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.16
+rr6---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.17
+rr7---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.18
+rr8---sn-cxaaj5o5q5-tt1el.googlevideo.com 184.150.64.19
+
+# bellcanada-yyz13
+r1---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.76
+r2---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.77
+r3---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.78
+r4---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.79
+r5---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.80
+r6---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.81
+r7---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.82
+r8---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.83
+rr1---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.76
+rr2---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.77
+rr3---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.78
+rr4---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.79
+rr5---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.80
+rr6---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.81
+rr7---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.82
+rr8---sn-cxaaj5o5q5-tt1es.googlevideo.com 184.150.64.83
+
+# bellcanada-yyz14
+r1---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.140
+r2---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.141
+r3---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.142
+r4---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.143
+r5---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.144
+r6---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.145
+r7---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.146
+r8---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.147
+rr1---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.140
+rr2---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.141
+rr3---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.142
+rr4---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.143
+rr5---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.144
+rr6---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.145
+rr7---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.146
+rr8---sn-cxaaj5o5q5-tt1ez.googlevideo.com 184.150.64.147
+
+# bellcanada-yyz15
+r1---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.204
+r2---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.205
+r3---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.206
+r4---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.207
+r5---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.208
+r6---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.209
+r7---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.210
+r8---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.211
+rr1---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.204
+rr2---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.205
+rr3---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.206
+rr4---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.207
+rr5---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.208
+rr6---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.209
+rr7---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.210
+rr8---sn-cxaaj5o5q5-tt1e6.googlevideo.com 184.150.64.211
+
+# bellcanada-yyz16
+r1---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.76
+r2---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.77
+r3---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.78
+r4---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.79
+r5---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.80
+r6---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.81
+r7---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.82
+r8---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.83
+rr1---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.76
+rr2---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.77
+rr3---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.78
+rr4---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.79
+rr5---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.80
+rr6---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.81
+rr7---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.82
+rr8---sn-cxaaj5o5q5-tt1ed.googlevideo.com 184.150.37.83
+
+# YouTube YYZ (Toronto)
+
+rr1---sn-tt1eln7e.c.youtube.com 74.125.0.71
+rr2---sn-tt1eln7e.c.youtube.com 74.125.0.72
+rr3---sn-tt1eln7e.c.youtube.com 74.125.0.73
+rr4---sn-tt1eln7e.c.youtube.com 74.125.0.74
+rr5---sn-tt1eln7e.c.youtube.com 74.125.0.75
+rr6---sn-tt1eln7e.c.youtube.com 74.125.0.76
+
+rr1---sn-tt1eln7l.c.youtube.com 74.125.0.103
+rr2---sn-tt1eln7l.c.youtube.com 74.125.0.104
+rr3---sn-tt1eln7l.c.youtube.com 74.125.0.105
+rr4---sn-tt1eln7l.c.youtube.com 74.125.0.106
+rr5---sn-tt1eln7l.c.youtube.com 74.125.0.107
+rr6---sn-tt1eln7l.c.youtube.com 74.125.0.108
+
+rr1---sn-tt1e7n7e.c.youtube.com 173.194.131.71
+rr2---sn-tt1e7n7e.c.youtube.com 173.194.131.72
+rr3---sn-tt1e7n7e.c.youtube.com 173.194.131.73
+rr4---sn-tt1e7n7e.c.youtube.com 173.194.131.74
+rr5---sn-tt1e7n7e.c.youtube.com 173.194.131.75
+rr6---sn-tt1e7n7e.c.youtube.com 173.194.131.76
+
+rr1---sn-tt1e7n7l.c.youtube.com 173.194.131.103
+rr2---sn-tt1e7n7l.c.youtube.com 173.194.131.104
+rr3---sn-tt1e7n7l.c.youtube.com 173.194.131.105
+rr4---sn-tt1e7n7l.c.youtube.com 173.194.131.106
+rr5---sn-tt1e7n7l.c.youtube.com 173.194.131.107
+rr6---sn-tt1e7n7l.c.youtube.com 173.194.131.108
+
+rr1---sn-tt1e7n7k.c.youtube.com 173.194.185.7
+rr2---sn-tt1e7n7k.c.youtube.com 173.194.185.8
+rr3---sn-tt1e7n7k.c.youtube.com 173.194.185.9
+rr4---sn-tt1e7n7k.c.youtube.com 173.194.185.10
+rr5---sn-tt1e7n7k.c.youtube.com 173.194.185.11
+rr6---sn-tt1e7n7k.c.youtube.com 173.194.185.12
+
+rr1---sn-tt1eln7e.googlevideo.com 74.125.0.71
+rr2---sn-tt1eln7e.googlevideo.com 74.125.0.72
+rr3---sn-tt1eln7e.googlevideo.com 74.125.0.73
+rr4---sn-tt1eln7e.googlevideo.com 74.125.0.74
+rr5---sn-tt1eln7e.googlevideo.com 74.125.0.75
+rr6---sn-tt1eln7e.googlevideo.com 74.125.0.76
+
+rr1---sn-tt1eln7l.googlevideo.com 74.125.0.103
+rr2---sn-tt1eln7l.googlevideo.com 74.125.0.104
+rr3---sn-tt1eln7l.googlevideo.com 74.125.0.105
+rr4---sn-tt1eln7l.googlevideo.com 74.125.0.106
+rr5---sn-tt1eln7l.googlevideo.com 74.125.0.107
+rr6---sn-tt1eln7l.googlevideo.com 74.125.0.108
+
+rr1---sn-tt1e7n7e.googlevideo.com 173.194.131.71
+rr2---sn-tt1e7n7e.googlevideo.com 173.194.131.72
+rr3---sn-tt1e7n7e.googlevideo.com 173.194.131.73
+rr4---sn-tt1e7n7e.googlevideo.com 173.194.131.74
+rr5---sn-tt1e7n7e.googlevideo.com 173.194.131.75
+rr6---sn-tt1e7n7e.googlevideo.com 173.194.131.76
+
+rr1---sn-tt1e7n7l.googlevideo.com 173.194.131.103
+rr2---sn-tt1e7n7l.googlevideo.com 173.194.131.104
+rr3---sn-tt1e7n7l.googlevideo.com 173.194.131.105
+rr4---sn-tt1e7n7l.googlevideo.com 173.194.131.106
+rr5---sn-tt1e7n7l.googlevideo.com 173.194.131.107
+rr6---sn-tt1e7n7l.googlevideo.com 173.194.131.108
+
+rr1---sn-tt1e7n7k.googlevideo.com 173.194.185.7
+rr2---sn-tt1e7n7k.googlevideo.com 173.194.185.8
+rr3---sn-tt1e7n7k.googlevideo.com 173.194.185.9
+rr4---sn-tt1e7n7k.googlevideo.com 173.194.185.10
+rr5---sn-tt1e7n7k.googlevideo.com 173.194.185.11
+rr6---sn-tt1e7n7k.googlevideo.com 173.194.185.12
+
+YouTube YUL (Montreal)
+rr1---sn-t0a7sn7d.googlevideo.com 209.85.225.198
+rr2---sn-t0a7sn7d.googlevideo.com 209.85.225.199
+rr3---sn-t0a7sn7d.googlevideo.com 209.85.225.200
+rr4---sn-t0a7sn7d.googlevideo.com 209.85.225.201
+rr5---sn-t0a7sn7d.googlevideo.com 209.85.225.202
+
+rr1---sn-t0a7ln7d.googlevideo.com 209.85.225.230
+rr2---sn-t0a7ln7d.googlevideo.com 209.85.225.231
+rr3---sn-t0a7ln7d.googlevideo.com 209.85.225.232
+rr4---sn-t0a7ln7d.googlevideo.com 209.85.225.233
+rr5---sn-t0a7ln7d.googlevideo.com 209.85.225.234
+
+Start.ca
+YXU (London)
+rr1---sn-nu5gu-tm0e.googlevideo.com 96.47.190.12
+rr2---sn-nu5gu-tm0e.googlevideo.com 96.47.190.13
+rr3---sn-nu5gu-tm0e.googlevideo.com 96.47.190.14
+rr4---sn-nu5gu-tm0e.googlevideo.com 96.47.190.15
+rr5---sn-nu5gu-tm0e.googlevideo.com 96.47.190.16
+rr6---sn-nu5gu-tm0e.googlevideo.com 96.47.190.17
+rr7---sn-nu5gu-tm0e.googlevideo.com 96.47.190.18
+rr8---sn-nu5gu-tm0e.googlevideo.com 96.47.190.19
+
+YYZ (Toronto)
+rr1---sn-nu5gu-tt1e.googlevideo.com 104.193.69.12
+rr2---sn-nu5gu-tt1e.googlevideo.com 104.193.69.13
+rr3---sn-nu5gu-tt1e.googlevideo.com 104.193.69.14
+rr4---sn-nu5gu-tt1e.googlevideo.com 104.193.69.15
