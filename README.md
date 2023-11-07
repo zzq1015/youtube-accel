@@ -1,6 +1,6 @@
 # youtube-accel (YouTube Acceleration)
 
-No more buffering or pixelated videos when watching YouTube!!!
+No more buffering or pixelated videos when watching YouTube!
 
 As of late 2023, YouTube has become the de-facto library of human knowledge. Its operating company, Google, [has YouTube servers all around the globe](https://www.google.com/get/videoqualityreport/#how_video_gets_to_you), while [peering with every major ISP](https://peering.google.com/). Therefore, in theory, you should be able to watch YouTube videos smoothly without any buffering.
 
