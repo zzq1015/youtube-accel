@@ -42,7 +42,7 @@ rrx---sn-xxxxxx-xxxx.googlevideo.com
 rrx---sn-xxxxxx-xxxx.c.youtube.com
 ```
 
-To determine the exact home name, use "Inspect Element" (Or press F12), go to the `Network` tab, and refresh the page when watching a video.
+To find out the exact host name, use "Inspect Element" (Or press F12), go to the `Network` tab, and refresh the page when watching a video.
 
 You can try `nslookup` the address in Command Pronpt/Terminal like this:
 
