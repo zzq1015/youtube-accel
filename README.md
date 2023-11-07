@@ -20,7 +20,7 @@ There are a few known endpoints YouTube uses to map your IP address to the close
 
 If you manually [open the debug page](https://redirector.googlevideo.com/report_mapping "YouTube Report Mapping"), There are 2 possibilities:
 
-1. Your ISP has YouTube caching servers
+1. Your ISP has YouTube caching servers:
 
 ```
 xxx.xxx.xxx.xxx => xxxxxx-xxxx          (xxx.xxx.xxx.xxx/xx)
@@ -28,7 +28,7 @@ xxx.xxx.xxx.xxx => xxxxxx-xxxx          (xxx.xxx.xxx.xxx/xx)
 Your IP address    YouTube-Server ID    Your IP's CIDR range
 ```
 
-1. Your ISP does not have a YouTube caching server, so Google's servers are used
+2. Your ISP does not have a YouTube caching server, so Google's servers are used:
 
 ```
 xxx.xxx.xxx.xxx => xxxxxxxx : router:   "xxxx.xxxxx" next_hop_address: "xxx.xxx.xxx.xxx" (xxx.xxx.xxx.xxx/xx)
@@ -74,4 +74,21 @@ You can also `tracert` (Windows) or `traceroute` (MacOS/Linux) the IP addresses.
 
 The steps above will locate the issue of why your YouTube buffers. Depending on the result, you either complain to/switch your ISP or re-configure your network.
 
-TODO: How to convert YouTube hostname `sn-xxxxx` to real server ID
+## How to convert YouTube hostname `rrx---sn-xxxxxx-xxxx.googlevideo.com` to real server ID
+
+The conversion rules are as follows, encoded text is on the left and plaintext is on the right.
+
+|       |   |       |   |       |   |       |   |       |   |       |   |
+|-------|---|-------|---|-------|---|-------|---|-------|---|-------|---|
+| **0** | u | **7** | 0 | **e** | 1 | **l** | 2 | **s** | 3 | **z** | 4 |
+| **1** | z | **8** | v | **f** | w | **m** | x | **t** | y |       |   |
+| **2** | p | **9** | q | **g** | r | **n** | s | **u** | t |       |   |
+| **3** | k | **a** | l | **h** | m | **o** | n | **v** | o |       |   |
+| **4** | f | **b** | g | **i** | h | **p** | i | **w** | j |       |   |
+| **5** | a | **c** | b | **j** | c | **q** | d | **x** | e |       |   |
+| **6** | 5 | **d** | 6 | **k** | 7 | **r** | 8 | **y** | 9 |       |   |
+
+Note that `u` and `z` appear to be reversed. Probably a bug in encoding.
+
+For example, `r1---sn-cxaaj5o5q5-tt1ed.googlevideo.com` is actually `r1.bellcanada-yyz16`.
+`rr1.sn-q0cedn7s.googlevideo.com` is actually `r1.dub16s03`(Google's server in Dublin).
