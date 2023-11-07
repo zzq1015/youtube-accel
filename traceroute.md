@@ -19,11 +19,19 @@ Open "Terminal", and execute `traceroute <hostname or IP>`.
 However, personally, I would add some flags:
 
 ```
--N 3        Specifies the number of probe packets sent out simultaneously. Sending several probes concurrently can speed up traceroute considerably. The default value is 16. Note that some routers and hosts can use ICMP rate throttling. In such a situation specifying too large number can lead to loss of some responses.
+-N 3        Specifies the number of probe packets sent out simultaneously. 
+            Sending several probes concurrently can speed up traceroute 
+            considerably. The default value is 16. Note that some routers 
+            and hosts can use ICMP rate throttling. In such a situation 
+            specifying too large number can lead to loss of some responses.
 
--w 1        Set the time (in seconds) to wait for a response to a probe (default 5.0 sec).
+-w 1        Set the time (in seconds) to wait for a response to a probe 
+            (default 5.0 sec).
 
--z 0.1      Minimal time interval between probes (default 0). If the value is more than 10, then it specifies a number in milliseconds, else it is a number of seconds (float point values allowed too). Useful when some routers use rate-limit for icmp messages.
+-z 0.1      Minimal time interval between probes (default 0). If the value 
+            is more than 10, then it specifies a number in milliseconds, 
+            else it is a number of seconds (float point values allowed too). 
+            Useful when some routers use rate-limit for icmp messages.
 ```
 
 Also, your browser/app will send and receive data from YouTube servers through HTTPS, so you may also want to use TCP port 443.
