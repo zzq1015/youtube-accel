@@ -18,13 +18,27 @@ There are a few known endpoints YouTube uses to map your IP address to the close
 - https://www.youtube.com/ (If you are using a desktop browser)
 - https://m.youtube.com/ (If you are using a mobile browser)
 
-If you manually [open the debug page](https://redirector.googlevideo.com/report_mapping "YouTube Report Mapping"), You'll see something like this:
+If you manually [open the debug page](https://redirector.googlevideo.com/report_mapping "YouTube Report Mapping"), There are 2 possibilities:
+
+1. Your ISP has YouTube caching servers
 
 ```
 xxx.xxx.xxx.xxx => xxxxxx-xxxx          (xxx.xxx.xxx.xxx/xx)
 ^^^^^^^^^^^^^^^    ^^^^^^^^^^^          ^^^^^^^^^^^^^^^^^^^^
-Your IP address    YouTube-Server ID    Your IP CIDR range
+Your IP address    YouTube-Server ID    Your IP's CIDR range
+```
 
+1. Your ISP does not have a YouTube caching server, so Google's servers are used
+
+```
+xxx.xxx.xxx.xxx => xxxxxxxx : router:   "xxxx.xxxxx" next_hop_address: "xxx.xxx.xxx.xxx" (xxx.xxx.xxx.xxx/xx)
+^^^^^^^^^^^^^^^    ^^^^^^^^              ^^^^^^^^^^                                       ^^^^^^^^^^^^^^^^^^
+Your IP address    YouTube-Server ID     Google's Internal Server ID                      Your IP's CIDR range
+```
+
+Followed by
+
+```
 Debug Info: (Appears to be encrypted)
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -42,7 +56,7 @@ rrx---sn-xxxxxx-xxxx.googlevideo.com
 rrx---sn-xxxxxx-xxxx.c.youtube.com
 ```
 
-To find out the exact host name, use "Inspect Element" (Or press F12), go to the `Network` tab, and refresh the page when watching a video.
+To find the exact hostname, use "Inspect Element" (Or press F12), go to the `Network` tab, and refresh the page when watching a video.
 
 You can try `nslookup` the address in Command Pronpt/Terminal like this:
 
@@ -56,12 +70,8 @@ If you encounter the error `nslookup: 'rx---sn-xxxxxx-xxxx.googlevideo.com' is n
 
 And then `ping` the IP address you just got. Make sure there's no packet loss and latency less than 50ms.
 
-You can also `tracert` (Windows) or `traceroute` (MacOS/Linux) the IP addresses.
-
-TODO: Linux `traceroute` over TCP port 443
-
-TODO: Windows `tracert`, disable reverse DNS lookup and/or turn off NetBIOS
+You can also `tracert` (Windows) or `traceroute` (MacOS/Linux) the IP addresses. [Here's how](traceroute.md).
 
 The steps above will locate the issue of why your YouTube buffers. Depending on the result, you either complain to/switch your ISP or re-configure your network.
 
-TODO: How to convert YouTube host name `sn-xxxxx` to real server ID
+TODO: How to convert YouTube hostname `sn-xxxxx` to real server ID
