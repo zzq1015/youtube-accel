@@ -58,4 +58,10 @@ And then `ping` the IP address you just got. Make sure there's no packet loss an
 
 You can also `tracert` (Windows) or `traceroute` (MacOS/Linux) the IP addresses.
 
+TODO: Linux `traceroute` over TCP port 443
+
+TODO: Windows `tracert`, disable reverse DNS lookup and/or turn off NetBIOS
+
 The steps above will locate the issue of why your YouTube buffers. Depending on the result, you either complain to/switch your ISP or re-configure your network.
+
+TODO: How to covert YouTube host name `sn-xxxxx` to read server ID
