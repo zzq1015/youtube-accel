@@ -64,4 +64,4 @@ TODO: Windows `tracert`, disable reverse DNS lookup and/or turn off NetBIOS
 
 The steps above will locate the issue of why your YouTube buffers. Depending on the result, you either complain to/switch your ISP or re-configure your network.
 
-TODO: How to convert YouTube host name `sn-xxxxx` to read server ID
+TODO: How to convert YouTube host name `sn-xxxxx` to real server ID
