@@ -12,13 +12,13 @@ While watching YouTube videos, YouTube grabs your IP address, maps it to your cu
 
 There are a few known endpoints YouTube uses to map your IP address to the closest server:
 
-- https://redirector.googlevideo.com/report_mapping (Most common, used on YouTube Mobile/Tablet/TV App)
-- https://redirector.gvt1.com/report_mapping (I haven't seen that yet)
-- http://redirector.c.youtube.com/report_mapping (I haven't seen that yet, also no HTTPS support)
+- [https://redirector.googlevideo.com/](https://redirector.googlevideo.com/report_mapping?di=no) (Most common, used on YouTube Mobile/Tablet/TV App)
+- [https://redirector.gvt1.com/](https://redirector.gvt1.com/report_mapping?di=no) (I haven't seen that yet)
+- [http://redirector.c.youtube.com/](http://redirector.c.youtube.com/report_mapping?di=no) (I haven't seen that yet, also no HTTPS support)
 - https://www.youtube.com/ (If you are using a desktop browser)
 - https://m.youtube.com/ (If you are using a mobile browser)
 
-If you manually [open the debug page](https://redirector.googlevideo.com/report_mapping "YouTube Report Mapping"), There are 2 possibilities:
+If you manually [open the debug page](https://redirector.googlevideo.com/report_mapping?di=no "YouTube Report Mapping"), There are 2 possibilities:
 
 1. Your ISP has YouTube caching servers:
 
@@ -34,18 +34,6 @@ Your IP address    YouTube-Server ID    Your IP's CIDR range
 xxx.xxx.xxx.xxx => xxxxxxxx : router:   "xxxx.xxxxx" next_hop_address: "xxx.xxx.xxx.xxx" (xxx.xxx.xxx.xxx/xx)
 ^^^^^^^^^^^^^^^    ^^^^^^^^              ^^^^^^^^^^                                       ^^^^^^^^^^^^^^^^^^
 Your IP address    YouTube-Server ID     Google's Internal Server ID                      Your IP's CIDR range
-```
-
-Followed by
-
-```
-Debug Info: (Appears to be encrypted)
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxx...
 ```
 
 And then, your browser/app will get the video from somewhere looking like this:
