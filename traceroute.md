@@ -42,4 +42,4 @@ Last but not least, `traceroute` using ICMP or TCP will need `root` access. Ther
 sudo traceroute -N 3 -w 1 -z 0.1 -T -p 443 <hostname or IP>
 ```
 
-More info is [here](https://linux.die.net/man/8/traceroute).
+More info is [here](https://man7.org/linux/man-pages/man8/traceroute.8.html).
