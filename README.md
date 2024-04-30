@@ -76,9 +76,7 @@ The conversion rules are as follows, encoded text is on the left and plaintext i
 | **5** | a | **c** | b | **j** | c | **q** | d | **x** | e |       |   |
 | **6** | 5 | **d** | 6 | **k** | 7 | **r** | 8 | **y** | 9 |       |   |
 
-Note that `u` and `z` appear to be reversed. Probably a bug in encoding.
+Note that `u` and `z` appear to be reversed.
 
 For example, `r1---sn-cxaaj5o5q5-tt1ed.googlevideo.com` is actually `r1.bellcanada-yyz16`.
 `rr1.sn-q0cedn7s.googlevideo.com` is actually `r1.dub16s03`(Google's server in Dublin).
-
-TODO: An automated script to convert between encoded hostnames and plain server IDs.
