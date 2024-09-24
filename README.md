@@ -80,3 +80,20 @@ Note that `u` and `z` appear to be reversed.
 
 For example, `r1---sn-cxaaj5o5q5-tt1ed.googlevideo.com` is actually `r1.bellcanada-yyz16`.
 `rr1.sn-q0cedn7s.googlevideo.com` is actually `r1.dub16s03`(Google's server in Dublin).
+
+## Disable AV1 (for now)
+
+AV1, or AOMedia Video 1, is an open, royalty-free video coding format designed for video transmissions over the internet. It offers significant improvements in compression efficiency compared to older codecs. This means that it can deliver higher quality video at lower bitrates, making it ideal for streaming video over the internet.
+
+Sounds cool, right?
+
+However, there is a catch **(at least for now)**.
+
+It uses a more complex compression algorithm, so unless your computer's CPU/GPU is very recent (supports hardware AV1 decoding), you will not have a good time.
+
+Your CPU might have 70%+ utilization for 4K60fps vidoes compared to VP9 (10%-20% @ 4K60).
+
+I have a 12th Gen Intel CPU, so in theory it should support hardware AV1 decoding. Even Firefox is claiming so!
+
+![AV1 HW decoding is supported by Firefox](img/av1_hw_accel.png)
+
