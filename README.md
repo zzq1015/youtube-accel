@@ -121,7 +121,7 @@ Go to a popular video (1080p or higher) like [this one](https://www.youtube.com/
 
 ![Stats for nerds - Codecs section](img/yt_stats.png)
 
-As long it doesn't say `av01`, you're good to go. It could be `vp9` or `avc1`.
+As long it doesn't say `av01`, you're good to go. It could be `vp09` or `avc1`.
 
 **Do not confuse `avc1` with `av01`!** `AVC` is just an alias for `H.264`.
 
