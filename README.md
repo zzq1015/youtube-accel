@@ -107,7 +107,7 @@ Also, if you have Firefox syncing, add `services.sync.prefs.sync.media.av1.enabl
 
 ### If you have Chrome and signed into a Google account
 
-Go to [](https://www.youtube.com/account_playback). You'll see a setting like this:
+Go to [https://www.youtube.com/account_playback](https://www.youtube.com/account_playback). You'll see a setting like this:
 
 ![YouTube playback settings - AV1 settings](img/yt_av1.png)
 
@@ -121,7 +121,7 @@ Go to a popular video (1080p or higher) like [this one](https://www.youtube.com/
 
 ![Stats for nerds - Codecs section](img/yt_stats.png)
 
-As long it doesn't say `av01`, you're good to go. It could be `vp9` or `avc1`
+As long it doesn't say `av01`, you're good to go. It could be `vp9` or `avc1`.
 
 **Do not confuse `avc1` with `av01`!** `AVC` is just an alias for `H.264`.
 
