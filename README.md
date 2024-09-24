@@ -103,7 +103,7 @@ I have a 12th Gen Intel CPU, so in theory it should support hardware AV1 decodin
 
 Go to `about:config`, click through the warning, search for `media.av1.enabled` and set it to `false`.
 
-Also, if you have Firefox syncing, add `services.sync.prefs.sync.media.av1.enabled` as a boolean and set it to `true`, so the change will be synced across all your computers (if you want)!
+Also, if you have Firefox syncing, add `services.sync.prefs.sync.media.av1.enabled` as a boolean and set it to `true`, so the change will be synced across all your devices (if you want)!
 
 ### If you have Chrome and signed into a Google account
 
