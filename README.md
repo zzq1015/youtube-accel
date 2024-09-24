@@ -81,19 +81,48 @@ Note that `u` and `z` appear to be reversed.
 For example, `r1---sn-cxaaj5o5q5-tt1ed.googlevideo.com` is actually `r1.bellcanada-yyz16`.
 `rr1.sn-q0cedn7s.googlevideo.com` is actually `r1.dub16s03`(Google's server in Dublin).
 
-## Disable AV1 (for now)
+## Disable AV1 Format (for now)
 
 AV1, or AOMedia Video 1, is an open, royalty-free video coding format designed for video transmissions over the internet. It offers significant improvements in compression efficiency compared to older codecs. This means that it can deliver higher quality video at lower bitrates, making it ideal for streaming video over the internet.
 
 Sounds cool, right?
 
-However, there is a catch **(at least for now)**.
+However, there is a catch, **(at least for now)**.
 
 It uses a more complex compression algorithm, so unless your computer's CPU/GPU is very recent (supports hardware AV1 decoding), you will not have a good time.
 
-Your CPU might have 70%+ utilization for 4K60fps vidoes compared to VP9 (10%-20% @ 4K60).
+Your CPU can have 70%+ utilization (even with some hardware acceleration) for 4K60fps vidoes compared to VP9 (10%-20% @ 4K60).
 
 I have a 12th Gen Intel CPU, so in theory it should support hardware AV1 decoding. Even Firefox is claiming so!
 
 ![AV1 HW decoding is supported by Firefox](img/av1_hw_accel.png)
 
+## How to disable AV1
+
+### If you have Firefox
+
+Go to `about:config`, click through the warning, search for `media.av1.enabled` and set it to `false`.
+
+Also, if you have Firefox syncing, add `services.sync.prefs.sync.media.av1.enabled` as a boolean and set it to `true`, so the change will be synced across all your computers (if you want)!
+
+### If you have Chrome and signed into a Google account
+
+Go to [](https://www.youtube.com/account_playback). You'll see a setting like this:
+
+![YouTube playback settings - AV1 settings](img/yt_av1.png)
+
+Select **Prefer AV1 for SD**. Althrough it doesn't disable AV1 completely, 480p or lower AV1 videos are not resource hungry.
+
+### Checking for results
+
+Did you truly disabled AV1 (or limited to SD only)? You can check the results.
+
+Go to a popular video (1080p or higher) like [this one](https://www.youtube.com/watch?v=dQw4w9WgXcQ), right click, select **Stats for nerds**. It will say something like this:
+
+![Stats for nerds - Codecs section](img/yt_stats.png)
+
+As long it doesn't say `av01`, you're good to go. It could be `vp9` or `avc1`
+
+**Do not confuse `avc1` with `av01`!** `AVC` is just an alias for `H.264`.
+
+Check more videos to be sure AV1 is not used. YouTube tends to re-encode popular videos with AV1.
