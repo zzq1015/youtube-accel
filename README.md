@@ -81,7 +81,7 @@ Note that `u` and `z` appear to be reversed.
 For example, `r1---sn-cxaaj5o5q5-tt1ed.googlevideo.com` is actually `r1.bellcanada-yyz16`.
 `rr1.sn-q0cedn7s.googlevideo.com` is actually `r1.dub16s03`(Google's server in Dublin).
 
-## Disable AV1 Format (for now)
+## Disable AV1 Format (if you really want to)
 
 **Update: Firefox may have solved the issue. So probably leave AV1 enabled for now.**
 
