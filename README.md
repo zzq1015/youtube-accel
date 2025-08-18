@@ -83,6 +83,10 @@ For example, `r1---sn-cxaaj5o5q5-tt1ed.googlevideo.com` is actually `r1.bellcana
 
 ## Disable AV1 Format (for now)
 
+**Update: Firefox may have solved the issue. So probably leave AV1 enabled for now.**
+
+**Also, disabling AV1 may impact your ability to play 1080p premium videos.**
+
 AV1, or AOMedia Video 1, is an open, royalty-free video coding format designed for video transmissions over the internet. It offers significant improvements in compression efficiency compared to older codecs. This means that it can deliver higher quality video at lower bitrates, making it ideal for streaming video over the internet.
 
 Sounds cool, right?
