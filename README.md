@@ -2,7 +2,7 @@
 
 No more buffering or pixelated videos when watching YouTube!
 
-As of late 2023, YouTube has become the de-facto library of human knowledge. Its operating company, Google, [has YouTube servers all around the globe](https://www.google.com/get/videoqualityreport/#how_video_gets_to_you), while [peering with every major ISP](https://peering.google.com/). Therefore, in theory, you should be able to watch YouTube videos smoothly without any buffering.
+As of 2025, YouTube has become the de-facto library of human knowledge. Its operating company, Google, has YouTube servers all around the globe, while [peering with every major ISP](https://peering.google.com/). Therefore, in theory, you should be able to watch YouTube videos smoothly without any buffering.
 
 However, there are still some people who have decent internet, but YouTube buffers all the time. It's time to find out why.
 
