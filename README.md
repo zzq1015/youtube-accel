@@ -109,13 +109,13 @@ Go to `about:config`, click through the warning, search for `media.av1.enabled` 
 
 Also, if you have Firefox syncing, add `services.sync.prefs.sync.media.av1.enabled` as a boolean and set it to `true`, so the change will be synced across all your devices (if you want)!
 
-### If you have Chrome and signed into a Google account
+### ~~If you have Chrome and signed into a Google account~~ (Google removed this setting)
 
-Go to [https://www.youtube.com/account_playback](https://www.youtube.com/account_playback). You'll see a setting like this:
+~~Go to [https://www.youtube.com/account_playback](https://www.youtube.com/account_playback). You'll see a setting like this:
 
 ![YouTube playback settings - AV1 settings](img/yt_av1.png)
 
-Select **Prefer AV1 for SD**. Althrough it doesn't disable AV1 completely, 480p or lower AV1 videos are not resource hungry.
+Select **Prefer AV1 for SD**. Althrough it doesn't disable AV1 completely, 480p or lower AV1 videos are not resource hungry.~~
 
 ### Checking for results
 
