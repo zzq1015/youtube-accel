@@ -36,7 +36,7 @@ However, personally, I would add some flags:
 
 Also, your browser/app will send and receive data from YouTube servers through HTTPS, so you may also want to use TCP port 443.
 
-Last but not least, `traceroute` using ICMP or TCP will need `root` access. Therefore, the command will look like this:
+Last but not least, `traceroute` using ~~ICMP or ~~TCP will need `root` access. Therefore, the command will look like this:
 
 ```
 sudo traceroute -N 3 -w 1 -z 0.1 -T -p 443 <hostname or IP>
